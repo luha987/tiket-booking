@@ -6,25 +6,25 @@
 <br>
 Aplikasi Booking tiket tempat olahraga<br>
 
-<center>Halaman Depan</center><br>
+Halaman Depan<br>
 ![assets](./assets/Screenshot_2024-07-20-04-11-27-152_com.example.booking_tiket.jpg)
 
 
-<center>Halaman Detail</center><br>
+Halaman Detail<br>
 ![assets](./assets/Screenshot_2024-07-20-04-09-43-064_com.example.booking_tiket.jpg)
 
 
-<center>Halaman Pesanan</center><br>
+Halaman Pesanan<br>
 ![assets](./assets/Screenshot_2024-07-20-04-10-38-553_com.example.booking_tiket.jpg)
 
 
-<center>Halaman Transaksi</center><br>
+Halaman Transaksi<br>
 ![assets](./assets/Screenshot_2024-07-20-04-10-42-268_com.example.booking_tiket.jpg)
 
 
-<center>Pengaturan</center><br>
+Pengaturan<br>
 ![assets](./assets/Screenshot_2024-07-20-04-11-01-199_com.example.booking_tiket.jpg)
 
 
-<center>Pencarian</center><br>
+Pencarian<br>
 ![assets](./assets/Screenshot_2024-07-20-04-11-27-152_com.example.booking_tiket.jpg)
