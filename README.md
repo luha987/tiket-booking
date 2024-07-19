@@ -1,16 +1,21 @@
-# booking_tiket
+# UAS PSK TAMK
 
-A new Flutter project.
+Aplikasi Booking tiket tempat olahraga
 
-## Getting Started
+Halaman Depan
+https://www.mediafire.com/view/4kyqwhanvga017a/Screenshot_2024-07-20-04-09-20-859_com.example.booking_tiket.jpg
 
-This project is a starting point for a Flutter application.
+Halaman Detail
+https://www.mediafire.com/view/w8gb2w9kltm5jup/Screenshot_2024-07-20-04-09-43-064_com.example.booking_tiket.jpg
 
-A few resources to get you started if this is your first Flutter project:
+Halaman Pesanan
+https://www.mediafire.com/view/h1kraz1zhgobkoj/Screenshot_2024-07-20-04-10-38-553_com.example.booking_tiket.jpg
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Halaman Transaksi
+https://www.mediafire.com/view/2i1tmv469n6pky9/Screenshot_2024-07-20-04-10-42-268_com.example.booking_tiket.jpg
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Pengaturan
+https://www.mediafire.com/view/1mfxroi4zhefu2l/Screenshot_2024-07-20-04-11-01-199_com.example.booking_tiket.jpg
+
+Pencarian
+https://www.mediafire.com/view/5kikd0sb9q6trpv/Screenshot_2024-07-20-04-11-27-152_com.example.booking_tiket.jpg
