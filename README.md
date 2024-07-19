@@ -6,7 +6,7 @@
 <br>
 Aplikasi pemesanan tiket tempat olahraga
 
-#Foto
+# Foto
 Halaman Depan<br>
 ![assets](./assets/Screenshot_2024-07-20-04-11-27-152_com.example.booking_tiket.jpg)
 
