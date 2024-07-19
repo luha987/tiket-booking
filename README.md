@@ -3,7 +3,7 @@
 Aplikasi Booking tiket tempat olahraga
 
 Halaman Depan
-![assets](./assets/Screenshot_2024-07-20-04-11-27-152_com.example.booking_tiket)
+![assets](./assets/Screenshot_2024-07-20-04-11-27-152_com.example.booking_tiket.jpg)
 
 Halaman Detail
 <img src="https://www.mediafire.com/view/w8gb2w9kltm5jup/Screenshot_2024-07-20-04-09-43-064_com.example.booking_tiket.jpg/file">
