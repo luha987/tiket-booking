@@ -112,21 +112,21 @@ class HomeView extends StatelessWidget {
                 ),
               ],
             ),
-            Container(
-              decoration: BoxDecoration(
-                  color: primaryColor500,
-                  borderRadius: BorderRadius.circular(borderRadiusSize)),
-              child: IconButton(
-                onPressed: () {
-                  Navigator.push(context, MaterialPageRoute(builder: (context) {
-                    return SearchView(
-                      selectedDropdownItem: "",
-                    );
-                  }));
-                },
-                icon: const Icon(Icons.search, color: colorWhite),
-              ),
-            )
+            // Container(
+            //   decoration: BoxDecoration(
+            //       color: primaryColor500,
+            //       borderRadius: BorderRadius.circular(borderRadiusSize)),
+            //   child: IconButton(
+            //     onPressed: () {
+            //       Navigator.push(context, MaterialPageRoute(builder: (context) {
+            //         return SearchView(
+            //           selectedDropdownItem: "",
+            //         );
+            //       }));
+            //     },
+            //     icon: const Icon(Icons.search, color: colorWhite),
+            //   ),
+            // )
           ],
         ),
       ),
