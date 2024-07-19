@@ -4,8 +4,9 @@
 # 1. Nuraji Dwi Setiawan (211080200003)
 # 2. Muchamad Abdul Azis (211080200059)
 <br>
-Aplikasi Booking tiket tempat olahraga<br>
+Aplikasi pemesanan tiket tempat olahraga
 
+#Foto
 Halaman Depan<br>
 ![assets](./assets/Screenshot_2024-07-20-04-11-27-152_com.example.booking_tiket.jpg)
 
