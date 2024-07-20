@@ -2,7 +2,7 @@
 
 # Nama kelompok :
 # 1. Nuraji Dwi Setiawan (211080200003)
-# 2. Muchamad Abdul Azis (211080200059)
+# 2. Mochamad Abdul Azis (211080200059)
 <br>
 Aplikasi pemesanan tiket tempat olahraga
 
